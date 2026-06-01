@@ -1,4 +1,4 @@
-# 🔓 Bot Unlock Bootloader
+# 🔓 Script Unlock Bootloader
 
 Script automatizado que envía solicitudes de desbloqueo de bootloader a las 00:00 (hora de Beijing).
 
