@@ -51,8 +51,8 @@ Antes de ejecutar el script, necesitas obtener la cookie `new_bbs_servicetoken`.
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/EJPS7/Bot-unlock-bootloader-.git
-cd Bot-unlock-bootloader-
+git clone https://github.com/EJPS7/Script-unlock-bootloader-.git
+cd Script-unlock-bootloader-
 
 # Ejecutar el script (instala dependencias automáticamente)
 python script.py
@@ -65,8 +65,8 @@ python script.py
 pkg install git python -y
 
 # Clonar el repositorio
-git clone https://github.com/EJPS7/Bot-unlock-bootloader-.git
-cd Bot-unlock-bootloader-
+git clone https://github.com/EJPS7/Script-unlock-bootloader-.git
+cd Script-unlock-bootloader-
 
 # Ejecutar el script (instala dependencias automáticamente)
 python script.py
@@ -91,7 +91,7 @@ python script.py
 
 ### 📍 A la Medianoche (00:00 Hora Beijing)
 
-Sin importar cuál sea el resultado del bot, siempre debes seguir estos pasos:
+Sin importar cuál sea el resultado del script, siempre debes seguir estos pasos:
 
 1. **Agregar cuenta y dispositivo en Opciones de Desarrollador:**
    - Ve a **Configuración > Acerca del teléfono > Versión MIUI** (toca 7 veces)
@@ -110,13 +110,13 @@ Sin importar cuál sea el resultado del bot, siempre debes seguir estos pasos:
    - Activa la opción **"Encontrar Dispositivo"** en Opciones de Desarrollador
    - Esto es esencial para que el proceso de desbloqueo funcione correctamente
 
-### 💡 Si el Bot No Funciona Correctamente
+### 💡 Si el Script No Funciona Correctamente
 
 - Cierra sesión de tu cuenta Mi en el dispositivo
 - Reinicia el dispositivo completamente
 - Vuelve a iniciar sesión con tu cuenta Mi
 - Verifica que "Encontrar Dispositivo" esté activado
-- Intenta ejecutar el bot nuevamente
+- Intenta ejecutar el script nuevamente
 
 ## 📝 Notas Importantes
 
@@ -185,4 +185,4 @@ Si tienes problemas o sugerencias, por favor abre un issue en el repositorio.
 ---
 
 **Versión:** 1.0  
-**Última actualización:** 2026-05-08
+**Última actualización:** 2026-06-01
